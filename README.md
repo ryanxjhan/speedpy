@@ -4,3 +4,10 @@
 ```
 pip install speedpy
 ```
+```python
+import speedpy
+
+@diagnose
+def func():
+  pass
+```
