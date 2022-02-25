@@ -10,4 +10,8 @@ import speedpy
 @diagnose
 def func():
   pass
+
+@diagnose_async
+async def async_func():
+  pass
 ```
